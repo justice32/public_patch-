@@ -1,0 +1,1 @@
+/Users/justicex/Desktop/zpokcurverepo/curve25519-dalek-derive/target/debug/libcurve25519_dalek_derive.dylib: /Users/justicex/Desktop/zpokcurverepo/curve25519-dalek-derive/README.md /Users/justicex/Desktop/zpokcurverepo/curve25519-dalek-derive/src/lib.rs
